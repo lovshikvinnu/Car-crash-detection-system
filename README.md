@@ -283,7 +283,8 @@ Smart-Vehicle-Blackbox/
 
 ### Prototype
 
-![Prototype](images/prototype.jpg)
+![Prototype](images/prototype1.jpg)
+![Prototype](images/prototype2.jpg)
 
 ---
 
@@ -336,9 +337,11 @@ Improve accident classification and reduce false alarms.
 
 ## Authors
 
-Lovshik and Team
-
-Department of Electronics and Computer Engineering
+- Jahnavi
+- Deekshita
+- Charitha
+- Alisha
+- Lovshik
 
 ---
 
