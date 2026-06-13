@@ -260,9 +260,6 @@ Smart-Vehicle-Blackbox/
 │
 ├── docs/
 │   └── Project_Report.pdf
-│
-└── hardware/
-    └── component_list.txt
 ```
 
 ---
