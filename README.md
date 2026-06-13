@@ -45,8 +45,8 @@ A low-cost intelligent vehicle blackbox system capable of:
 
 ## Authors
 
-Jahnavi
-Deekshitha
-Alisha
-Charitha
-Lovahik
+- Jahnavi
+- Deekshitha
+- Alisha
+- Charitha
+- Lovshik
