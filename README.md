@@ -336,7 +336,7 @@ Improve accident classification and reduce false alarms.
 
 - Jahnavi
 - Deekshita
-- Charitha
+- @Charithakongara
 - Alisha
 - Lovshik
 
