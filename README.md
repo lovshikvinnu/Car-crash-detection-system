@@ -266,10 +266,6 @@ Smart-Vehicle-Blackbox/
 
 ## Project Images
 
-### Cover
-
-![Cover Image](images/cover.png)
-
 ### Block Diagram
 
 ![Block Diagram](images/block_diagram.png)
@@ -329,16 +325,6 @@ Improve accident classification and reduce false alarms.
 - Two-Stage Notification Protocol
 - Blackbox Event Preservation
 - Low-Cost Hardware Implementation
-
----
-
-## Authors
-
-- Jahnavi
-- Deekshita
-- Charitha
-- Alisha
-- Lovshik
 
 ---
 
