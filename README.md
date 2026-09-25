@@ -325,9 +325,3 @@ Improve accident classification and reduce false alarms.
 - Two-Stage Notification Protocol
 - Blackbox Event Preservation
 - Low-Cost Hardware Implementation
-
----
-
-## License
-
-This project is intended for educational and research purposes.
